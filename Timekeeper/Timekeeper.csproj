@@ -64,7 +64,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="LICENSE" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,7 +100,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Iconsmind-Outline-Timer-2.ico" />
-    <None Include="Readme.md" />
     <None Include="Resources\timer.png" />
   </ItemGroup>
   <ItemGroup>
